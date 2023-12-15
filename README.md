@@ -1,4 +1,4 @@
-This is a repo contains a configuration file for creating a connection with nmcli for the eduroam network of the HTW Berlin.
+This repo contains a configuration file for creating a connection with nmcli for the eduroam network of the HTW Berlin.
 
 ### Steps
 1) Follow [this guide](https://doku.tid.dfn.de/de:eduroam:easyroam#installation_der_easyroam_profile_auf_linux_geraeten_ohne_desktop_umgebung_wpa-supplicant_only) but only until the step, where you moved the files in the directory /etc/easyroam-certs/
